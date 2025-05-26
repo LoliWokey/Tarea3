@@ -110,3 +110,26 @@ Multijugador
 Este programa es bastante simple al ser todo indexado con numeros
 
 1) Recoger item
+```
+Items disponibles en el escenario:
+(insertar numero que aparece para escojer, si no es asi sera devuelto al menu)
+```
+2) Descartar Item
+```
+Items en tu inventario:
+(si tienes items en el inventario, selecciona el numero mostrado para borrarlo o 0 para cancelarlo)
+```
+3) Moverse
+```
+Movimientos disponibles desde (sala/escena):
+(van a aparecer todas las sals posibles por pasar, seleccionar numero respectivo para moverse a la sala requerida o 0 para cancelar)
+```
+4) Reiniciar partida
+```
+¿Estas seguro que quieres reiniciar la partida?:
+(1 si quieres reiniciar, 2 si no)
+```
+5) Salir
+```
+Saliendo del juego...
+```
